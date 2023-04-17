@@ -1,8 +1,5 @@
 
-# Aesthetic Calc
-{INSERT LOGO ART HERE} 
-
-Looking for a calculator that is both functional and aesthetically pleasing? Look no further! 
+![image](https://user-images.githubusercontent.com/123345456/232600427-3f2fc81c-b3a0-4c2a-b2c1-0cf2e4171415.png)
 
 
 ## Authors
