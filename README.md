@@ -1,14 +1,14 @@
 
 ![image](https://user-images.githubusercontent.com/123345456/232600427-3f2fc81c-b3a0-4c2a-b2c1-0cf2e4171415.png)
 
-
+> Do note that this README is NOT finalised as it contains sample data
 ## Authors
 
 - [@spirizeon](https://www.github.com/spirizeon)
 - [@mayank-crypto-byte](https://github.com/mayank-crypto-byte)
 
 
-## Color scheme (Pending)
+## Default color scheme
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
