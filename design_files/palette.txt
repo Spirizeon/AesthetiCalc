@@ -1,0 +1,25 @@
+/* Coolors Exported Palette - https://coolors.co/fff3b0-ffe4bf-ffd2d0-ffbde4-ffb1f1 */
+
+/* CSV */
+fff3b0,ffe4bf,ffd2d0,ffbde4,ffb1f1
+
+/* With # */
+#fff3b0, #ffe4bf, #ffd2d0, #ffbde4, #ffb1f1
+
+/* Array */
+["fff3b0","ffe4bf","ffd2d0","ffbde4","ffb1f1"]
+
+/* Object */
+{"Vanilla":"fff3b0","Wheat":"ffe4bf","Tea rose (red)":"ffd2d0","Lavender pink":"ffbde4","Plum (web)":"ffb1f1"}
+
+/* Extended Array */
+[{"name":"Vanilla","hex":"fff3b0","rgb":[255,243,176],"cmyk":[0,5,31,0],"hsb":[51,31,100],"hsl":[51,100,85],"lab":[95,-6,34]},{"name":"Wheat","hex":"ffe4bf","rgb":[255,228,191],"cmyk":[0,11,25,0],"hsb":[35,25,100],"hsl":[35,100,87],"lab":[92,4,21]},{"name":"Tea rose (red)","hex":"ffd2d0","rgb":[255,210,208],"cmyk":[0,18,18,0],"hsb":[3,18,100],"hsl":[3,100,91],"lab":[88,15,7]},{"name":"Lavender pink","hex":"ffbde4","rgb":[255,189,228],"cmyk":[0,26,11,0],"hsb":[325,26,100],"hsl":[325,100,87],"lab":[84,30,-10]},{"name":"Plum (web)","hex":"ffb1f1","rgb":[255,177,241],"cmyk":[0,31,5,0],"hsb":[311,31,100],"hsl":[311,100,85],"lab":[81,38,-20]}]
+
+/* XML */
+<palette>
+  <color name="Vanilla" hex="fff3b0" r="255" g="243" b="176" />
+  <color name="Wheat" hex="ffe4bf" r="255" g="228" b="191" />
+  <color name="Tea rose (red)" hex="ffd2d0" r="255" g="210" b="208" />
+  <color name="Lavender pink" hex="ffbde4" r="255" g="189" b="228" />
+  <color name="Plum (web)" hex="ffb1f1" r="255" g="177" b="241" />
+</palette>
