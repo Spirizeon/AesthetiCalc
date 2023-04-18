@@ -10,6 +10,13 @@ class App(customtkinter.CTk):
         # create 4x6 grid system
         self.grid_columnconfigure((0),weight=1)
         self.grid_rowconfigure((1),weight=1)
+
+        # yes this adds transparency
+        self.attributes('-alpha',0.8)
+        #set bg color in customtkinter using attributes
+        
+        
+        
         
         
 
@@ -23,4 +30,5 @@ class App(customtkinter.CTk):
 
 if __name__ == "__main__":
     app = App()
+    app.configure(bg_color="#FFF3B0")
     app.mainloop()
