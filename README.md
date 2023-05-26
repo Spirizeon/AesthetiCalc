@@ -5,27 +5,20 @@
 ## Authors
 
 - [@spirizeon](https://www.github.com/spirizeon)
-- [@mayank-crypto-byte](https://github.com/mayank-crypto-byte)
 
 ## Features
-- Fullscreen mode
+- Responsive Design
 - Cross platform
 - More soon arriving...
 
-## Dependencies
-+ Python-3.x 
-+ Fonts
-+ + Major mono display
-+ + Jimmy script
-+ + Anonymous Pro
 
 
 ## Installation
- 
+ > if installation is blank, it means a release hasn't been made yet
 Install **Aesthetic Calc** through pip
 
 ```bash
-  pip install aesthetic-calc 
+
 ```
 
 Clone the repo
