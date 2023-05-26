@@ -1,6 +1,5 @@
 
-
-![AesthetiCalc](https://github.com/Spirizeon/AesthetiCalc-X/assets/123345456/15696e46-a983-4d7c-a07e-f48656387aaa)
+![AesthetiCalc](https://github.com/Spirizeon/AesthetiCalc-X/assets/123345456/e03a85d5-5e5c-44ce-b01f-ef9a01a0e5fd)
 
 > Do note that this README is NOT finalised as it contains sample data
 ## Authors
