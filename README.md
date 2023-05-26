@@ -1,5 +1,6 @@
 
-![image](https://user-images.githubusercontent.com/123345456/232600427-3f2fc81c-b3a0-4c2a-b2c1-0cf2e4171415.png)
+
+![AesthetiCalc](https://github.com/Spirizeon/AesthetiCalc-X/assets/123345456/cc5954f8-f4bd-468d-bedc-daf0442242c7)
 
 > Do note that this README is NOT finalised as it contains sample data
 ## Authors
